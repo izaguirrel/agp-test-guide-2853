@@ -2,7 +2,8 @@
   "name": "agp-test-guide-2853",
   "version": "1.0.0",
   "scripts": {
-    "build": "echo 'No build required'"
+    "build": "echo 'No build required'",
+    "test": "echo 'No tests required'"
   },
   "dependencies": {
     "lodash": "4.17.20",
