@@ -82,7 +82,7 @@ jobs:
   agp:
     needs: gate
     if: needs.gate.outputs.directive == 'run'
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     timeout-minutes: 60
     steps:
       - name: Checkout
