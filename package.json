@@ -1,0 +1,8 @@
+{
+  "name": "agp-test-guide-2853",
+  "version": "1.0.0",
+  "dependencies": {
+    "lodash": "4.17.20",
+    "chalk": "4.1.0"
+  }
+}

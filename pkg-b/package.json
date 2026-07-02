@@ -1,0 +1,7 @@
+{
+  "name": "agp-test-guide-2853-pkg-b",
+  "version": "1.0.0",
+  "dependencies": {
+    "is-odd": "2.0.0"
+  }
+}
