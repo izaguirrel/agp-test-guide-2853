@@ -2,6 +2,6 @@
   "name": "module-a",
   "version": "1.0.0",
   "dependencies": {
-    "kind-of": "6.0.2"
+    "kind-of": "^6.0.3"
   }
 }
