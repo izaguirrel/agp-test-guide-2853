@@ -2,6 +2,6 @@
   "name": "module-b",
   "version": "1.0.0",
   "dependencies": {
-    "debug": "4.0.0"
+    "debug": "^4.4.3"
   }
 }
